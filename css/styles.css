@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(0deg, rgba(19, 19, 19, 0.29), rgba(19, 19, 19, 0.29)), 
+    linear-gradient(112.68deg, #180247 0%, #010004 100%);
+    text-align: center;
+}
+
+.coming__soonContainer{
+    position:absolute;
+    top:228px;
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+
+.coming__soonFont{
+    color: rgba(24, 2, 71, 0.6);
+    font-family: AXIS;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8vmax;
+    width:100%;
+    margin:0 0;
+    letter-spacing: 20.5px;
+
+}
+
+.main__section{
+    position:absolute;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    top:150px;
+    overflow:hidden;
+    height: 100vh;
+}
